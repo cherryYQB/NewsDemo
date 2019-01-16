@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsDemo</string>
+    <string name="welcome">进入</string>
+    <string name="top">头条</string>
+    <string name="shehui">社会</string>
+    <string name="yule">娱乐</string>
+    <string name="tiyu">体育</string>
+    <string name="junshi">军事</string>
+
+    <string name="pull_to_refresh_pull_label">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_updated_at">上次更新时间:%1$s</string>
+    <string name="pull_to_refresh_pull_label_it">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label_it">松开即可刷新</string>
+    <string name="pull_to_refresh_refreshing_label_it">正在刷新数据...</string>
+</resources>
